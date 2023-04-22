@@ -140,7 +140,7 @@ console.log(`'${uuidV4}' ${uuidValidateV4(uuidV4) ? "is" : "is not"} a uuidv4`);
 
 ```
 
-> Project Repository : https://github.com/metaphorlism/npm-libraries
+> Project Repository : https://github.com/metaphorlism/npm-libraries/tree/npm-uuid
 
 ### Contact Us
 
