@@ -5,6 +5,8 @@ disqus: JBeanny
 
 By: Yim Sotharoth
 
+docs: https://hackmd.io/@JBeanny/rJUL26xQ2
+
 # Using npm uuid package
 
 ## Table of Contents
