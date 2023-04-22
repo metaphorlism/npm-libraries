@@ -1,2 +1,3 @@
 # npm-libraries
-all about npm packages
+
+check branches for the projects
